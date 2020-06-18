@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Lab3.cpp
+d:\универ\лабораторные\3 курс\алгоритмы\lab3\lab3\stdafx.h(191): warning C4715: BinarySearchTree<int>::findVertex: значение возвращается не при всех путях выполнения
+d:\универ\лабораторные\3 курс\алгоритмы\lab3\lab3\stdafx.h(128): warning C4715: BinarySearchTree<int>::findMin: значение возвращается не при всех путях выполнения
+  Lab3.vcxproj -> D:\Универ\Лабораторные\3 курс\Алгоритмы\Lab3\Debug\Lab3.exe

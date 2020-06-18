@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Lab4.cpp
+d:\универ\лабораторные\3 курс\алгоритмы\lab4\lab4\lab4.cpp(33): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  All 146 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Lab4.vcxproj -> D:\Универ\Лабораторные\3 курс\Алгоритмы\Lab4\Release\Lab4.exe
